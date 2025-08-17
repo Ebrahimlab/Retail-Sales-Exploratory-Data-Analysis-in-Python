@@ -38,6 +38,7 @@ Grouped data by **Age** and **Gender** to calculate total spending.
 (images/total_spending_by_age_gender.png  )
 
 
+
 **Analysis 2 — Top Product Category by Age & Gender**
 Examined **category-level spending** for each demographic segment.
 
@@ -74,5 +75,6 @@ Grouped transactions by month to assess seasonal and category-specific trends.
 
 **Visualization**:
 
-(images/monthly_spending_by_gender.png)
+![Alt text](./Barplot%20of%20Total%20Spending%20by%20Age%20and%20Gender.png)
+
 
