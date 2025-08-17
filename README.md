@@ -107,7 +107,7 @@ Examined **category-level spending** for each demographic segment.
 - Older demographics lean towards Electronics
 - Males dominate Electronics spending, females lead in Beauty purchases
 
-The table shows from **Age 18 - Age 25**, and **Age 56 - Age 64*. See the **FULL** output.
+The table shows from **Age 18 - Age 25**, and **Age 56 - Age 64**. See the **FULL** output.
 
 | Age | Product Category | Female | Male |
 |---|---|---|---|
@@ -200,6 +200,7 @@ Grouped transactions by month to assess seasonal and category-specific trends.
 | 12 | Electronics | 91 | 36 | 55 | 44690.00 |
 
 
+
 # Insights from Analysis 3 
 
 Analysis 3 examines **Customer Spending Trends throughout the Year**, segmented by **Month**. I look at:
@@ -226,6 +227,7 @@ Once again, in a Real-life dataset the findings can help with:
 * Promotions and Marketing: Understanding popular categories by month can help tailor promotions and marketing campaigns to target the right products at the right time.
 * Inventory Management: Analyzing monthly sales trends can inform inventory management strategies, ensuring you have adequate stock of popular categories during peak demand months.
 * Customer Acquisition: Months with lower customer traffic might be good times to implement customer acquisition campaigns to attract new buyers.
+
 
 # Total Monthly Spending Trend by Gender
 
@@ -255,7 +257,9 @@ For instance, in **May**, *Male* spending is the highest at 29220.00, while *Fem
 
 
 **Lineplot of Total Monthly Spending Trend by Gender**:
+
 ![Lineplot of Total Monthly Spending Trend by Gender](https://github.com/Ebrahimlab/Retail-Sales-Exploratory-Data-Analysis-in-Python/blob/main/Lineplot%20of%20Total%20Monthly%20Spending%20Trend%20by%20Gender.png?raw=true)
+
 
 
 **Conclusion**
