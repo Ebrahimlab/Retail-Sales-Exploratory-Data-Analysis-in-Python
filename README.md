@@ -48,6 +48,75 @@ Examined **category-level spending** for each demographic segment.
 - Older demographics lean towards Electronics
 - Males dominate Electronics spending, females lead in Beauty purchases
 
+The table shows from **Age 18 - Age 25**, and **Age 56 - Age 64*. See the **FULL** output.
+
+| Age | Product Category | Female | Male |
+|---|---|---|---|
+| 18 | Beauty            | 3195.0 | 1765.0 |
+|   | Clothing          | 2575.0 | 1510.0 |
+|   | Electronics       | 2170.0 | NaN |
+| 19 | Beauty            | 2225.0 | 2140.0 |
+|   | Clothing          | 1200.0 | 1530.0 |
+|   | Electronics       | 3910.0 | 3865.0 |
+| 20 | Beauty             | 365.0 | 2160.0 |
+|   | Clothing            | 80.0  | 360.0 |
+|   | Electronics       | 4730.0 | 950.0 |
+| 21 | Beauty            | 3300.0 | 4700.0 |
+|   | Clothing          | 1200.0 | 1885.0 |
+|   | Electronics        | 900.0  | 600.0 |
+| 22 | Beauty            | 1300.0 | 4230.0 |
+|   | Clothing          | 3275.0 | 2075.0 |
+|   | Electronics        | 850.0  | 1970.0 |
+| 23 | Beauty             | 475.0  | 165.0  |
+|   | Clothing          | 1270.0 | 3050.0 |
+|   | Electronics       | 1150.0 | 2110.0 |
+| 24 | Beauty            | 1575.0 | 1310.0 |
+|   | Clothing            | 25.0   | 2125.0 |
+|   | Electronics        | 150.0  | 230.0  |
+| 25 | Beauty            | 1000.0 | 1375.0 |
+|   | Clothing          | 2200.0 | 2150.0 |
+|   | Electronics        | 350.0  | 2825.0 |
+| 56 | Beauty            | 1635.0 | 500.0 |
+|   | Clothing          | 1790.0 | 2100.0 |
+|   | Electronics       | 2600.0 | 815.0 |
+| 57 | Beauty             | 425.0  | 3200.0 |
+|   | Clothing          | 2895.0 | 750.0 |
+|   | Electronics        | 310.0  | 1710.0 |
+| 58 | Beauty            | 2800.0 | 990.0 |
+|   | Clothing           | 760.0  | 1525.0 |
+|   | Electronics        | 120.0  | 1200.0 |
+| 59 | Beauty            | 2700.0 | NaN     |
+|   | Clothing           | 525.0  | 3585.0 |
+|   | Electronics        | 560.0  | 2100.0 |
+| 60 | Beauty             | 490.0  | 80.0  |
+|   | Clothing          | 3250.0 | 750.0 |
+|   | Electronics       | 3920.0 | 3100.0 |
+| 61 | Beauty               | NaN  | 1340.0 |
+|   | Clothing          | 2240.0 | 250.0 |
+|   | Electronics        | 600.0  | 2300.0 |
+| 62 | Beauty             | 920.0  | 305.0 |
+|   | Clothing           | 440.0  | 175.0 |
+|   | Electronics       | 1700.0 | 4580.0 |
+| 63 | Beauty             | 105.0  | 50.0  |
+|   | Clothing           | 150.0  | 2320.0 |
+|   | Electronics        | 950.0  | 5675.0 |
+| 64 | Beauty             | 640.0  | 1690.0 |
+|   | Clothing          | 4735.0 | 820.0 |
+|   | Electronics        | 950.0  | 290.0 |
+
+
+# Insights from Analysis 2
+
+Analysis 2 helps to identify **Trends in Customer Spending behaviour** based on `Age`, `Gender`, and `Product Category`
+
+The insights:
+
+* Age Preferences: Spending habits change with Age for certain Product Categories
+* Gender Differences: There are significant differences in spending patterns between Genders for specific Product Categories
+
+For a larger Real-life dataset, using such analysis can help to refine the **Target Audience for Marketing Campaigns**. Specific Age groups and Genders have a higher propensity to spend on certain Product Categories
+
+
 
 
 **Analysis 3 — Monthly Spending Patterns**
