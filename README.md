@@ -282,5 +282,17 @@ Three core findings:
 - Jupyter Notebook
 
 
+  ## Author - Mohammad Ebrahim Habib
+
+This portfolio project demonstrates my Python capabilities for data analysis. I welcome any inquiries, suggestions, or potential collaborations.
+
+
+### Stay updated and in touch 
+ 
+**linkedIn** (https://www.linkedin.com/in/ebrahimhabib/)
+**Email Address** (Mebrhimhhabib786@gmail.com)
+
+
+
 
 
