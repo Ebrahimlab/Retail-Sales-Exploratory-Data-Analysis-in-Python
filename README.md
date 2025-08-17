@@ -12,16 +12,10 @@ Although the data is synthetic, the analysis methods and insights are directly a
 3. **Time-Based Spending Trends** — How do sales vary by day and month across product categories, customer counts, and gender?
 
 **Dataset Overview**:
-- Rows: 1,000
-
-Columns: 9
-
-Unique Transactions: 1,000
-
-Unique Customers: 1,000
-
-Unique Dates: 345 (multiple customers purchased on the same dates)
-
-Categories: Beauty, Clothing, Electronics
-
-Missing Values: None  
+- **Rows**: 1,000
+- **Columns**: 9
+- **Unique Transactions**: 1,000
+- **Unique Customers**: 1,000
+- **Unique Dates**: 345 (multiple customers purchased on the same dates)
+- **Categories**: Beauty, Clothing, Electronics
+- **Missing Values**: None  
