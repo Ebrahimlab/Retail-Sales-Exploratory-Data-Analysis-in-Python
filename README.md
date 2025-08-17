@@ -97,6 +97,7 @@ See the Barplot below
 
 ![Barplot of Total Spending by Age and Gender](https://github.com/Ebrahimlab/Retail-Sales-Exploratory-Data-Analysis-in-Python/blob/main/Barplot%20of%20Total%20Spending%20by%20Age%20and%20Gender.png?raw=true)
 
+
 # Analysis 2 — Top Product Category by Age & Gender
 Examined **category-level spending** for each demographic segment.
 
@@ -254,7 +255,7 @@ For instance, in **May**, *Male* spending is the highest at 29220.00, while *Fem
 
 
 **Lineplot of Total Monthly Spending Trend by Gender**:
-![Line Plot](images/monthly_spending_by_gender.png)
+![Lineplot of Total Monthly Spending Trend by Gender](https://github.com/Ebrahimlab/Retail-Sales-Exploratory-Data-Analysis-in-Python/blob/main/Lineplot%20of%20Total%20Monthly%20Spending%20Trend%20by%20Gender.png?raw=true)
 
 
 **Conclusion**
