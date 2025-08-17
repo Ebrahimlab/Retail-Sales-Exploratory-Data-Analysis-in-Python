@@ -35,7 +35,7 @@ Grouped data by **Age** and **Gender** to calculate total spending.
 - Males aged 22 outspent females significantly
 
 **Visualization**:
-(images/total_spending_by_age_gender.png  )
+("C:\Users\mebrh\OneDrive\Desktop\Retail-Sales-EDA-in-Python-main\Barplot of Total Spending by Age and Gender.png"  )
 
 
 
