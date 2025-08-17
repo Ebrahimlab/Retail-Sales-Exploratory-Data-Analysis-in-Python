@@ -35,3 +35,44 @@ Grouped data by **Age** and **Gender** to calculate total spending.
 - Males aged 22 outspent females significantly
 
 **Visualization**:
+(images/total_spending_by_age_gender.png  )
+
+
+**Analysis 2 — Top Product Category by Age & Gender**
+Examined **category-level spending** for each demographic segment.
+
+**Key Findings**:
+
+- Younger shoppers (18–25) prefer Beauty & Clothing
+- Older demographics lean towards Electronics
+- Males dominate Electronics spending, females lead in Beauty purchases
+
+
+
+**Analysis 3 — Monthly Spending Patterns**
+Grouped transactions by month to assess seasonal and category-specific trends.
+
+**Findings**:
+
+1. **Spending Fluctuations**:
+- Peak in May ($53,150) — 42% above average
+- Low in September ($23,620) — seasonal dip
+- Q4 surge (Oct–Dec) above $35K
+
+2. **Category Shifts**:
+- Electronics led in 8 of 12 months
+- Beauty peaked in Jan & Jul
+- Clothing dominated Feb–Apr
+
+3. **Customer Traffic**:
+- Highest: May (105 customers)
+- Lowest: September (65 customers)
+
+4. **Gender Trends**:
+- Females outspent males in 7 months
+- Males led during Electronics-heavy months
+
+**Visualization**:
+
+(images/monthly_spending_by_gender.png)
+
