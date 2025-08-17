@@ -78,3 +78,13 @@ Grouped transactions by month to assess seasonal and category-specific trends.
 ![Alt text](./Barplot%20of%20Total%20Spending%20by%20Age%20and%20Gender.png)
 
 
+
+**Conclusion**
+Three core findings:
+
+1. **Gender-Driven Behavior** — clear category preferences by gender
+2. **Age Influence** — younger buyers focus on Beauty/Clothing, older on Electronics
+3. **Seasonality** — predictable peaks in May and Q4, dips in September
+
+
+
