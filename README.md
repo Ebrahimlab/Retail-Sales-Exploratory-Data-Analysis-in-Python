@@ -18,4 +18,20 @@ Although the data is synthetic, the analysis methods and insights are directly a
 - **Unique Customers**: 1,000
 - **Unique Dates**: 345 (multiple customers purchased on the same dates)
 - **Categories**: Beauty, Clothing, Electronics
-- **Missing Values**: None  
+- **Missing Values**: None
+
+**Data Preparation**
+- Converted Date to datetime format
+- Verified column uniqueness
+- Confirmed no missing values
+
+
+**Analysis 1 — Spending by Age & Gender**
+Grouped data by **Age** and **Gender** to calculate total spending.
+
+**Example Pattern**:
+
+- Females aged 18 spent more than males of the same age
+- Males aged 22 outspent females significantly
+
+**Visualization**:
