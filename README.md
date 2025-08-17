@@ -75,7 +75,7 @@ Grouped transactions by month to assess seasonal and category-specific trends.
 
 **Visualization**:
 
-![Alt text](./Barplot%20of%20Total%20Spending%20by%20Age%20and%20Gender.png)
+("C:\Users\mebrh\OneDrive\Desktop\Retail-Sales-EDA-in-Python-main\Lineplot of Total Monthly Spending Trend by Gender.png")
 
 
 
