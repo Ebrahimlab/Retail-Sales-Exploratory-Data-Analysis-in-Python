@@ -96,7 +96,7 @@ See the Barplot below
 
 
 # Barplot of Total Spending by Age and Gender
-![Bar Plot](images/total_spending_by_age_gender.png)
+![Bar Plot]([images/total_spending_by_age_gender.png](https://github.com/Ebrahimlab/Retail-Sales-Exploratory-Data-Analysis-in-Python/blob/main/Barplot%20of%20Total%20Spending%20by%20Age%20and%20Gender.png?raw=true))
 
 
 # Analysis 2 — Top Product Category by Age & Gender
