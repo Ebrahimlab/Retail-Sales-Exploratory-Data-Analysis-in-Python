@@ -6,10 +6,12 @@ The dataset includes:
 
 Although the data is synthetic, the analysis methods and insights are directly applicable to real-world retail data, helping businesses optimize marketing, inventory, and customer engagement strategies.
 
+
 **Business Questions Addressed**
 1. **Customer Demographics & Spending** — How does age and gender influence total purchase amounts?
 2. **Product Category Preferences** — Which category is most purchased by each age-gender group?
 3. **Time-Based Spending Trends** — How do sales vary by day and month across product categories, customer counts, and gender?
+
 
 **Dataset Overview**:
 - **Rows**: 1,000
@@ -20,13 +22,15 @@ Although the data is synthetic, the analysis methods and insights are directly a
 - **Categories**: Beauty, Clothing, Electronics
 - **Missing Values**: None
 
+
 **Data Preparation**
 - Converted Date to datetime format
 - Verified column uniqueness
 - Confirmed no missing values
 
 
-**Analysis 1 — Spending by Age & Gender**
+
+# Analysis 1 — Spending by Age & Gender
 Grouped data by **Age** and **Gender** to calculate total spending.
 
 **Example Pattern**:
@@ -39,7 +43,8 @@ Grouped data by **Age** and **Gender** to calculate total spending.
 
 
 
-**Analysis 2 — Top Product Category by Age & Gender**
+
+# Analysis 2 — Top Product Category by Age & Gender
 Examined **category-level spending** for each demographic segment.
 
 **Key Findings**:
@@ -107,6 +112,7 @@ The table shows from **Age 18 - Age 25**, and **Age 56 - Age 64*. See the **FULL
 
 # Insights from Analysis 2
 
+
 Analysis 2 helps to identify **Trends in Customer Spending behaviour** based on `Age`, `Gender`, and `Product Category`
 
 The insights:
@@ -119,7 +125,8 @@ For a larger Real-life dataset, using such analysis can help to refine the **Tar
 
 
 
-**Analysis 3 — Monthly Spending Patterns**
+# Analysis 3 — Monthly Spending Patterns
+
 Grouped transactions by month to assess seasonal and category-specific trends.
 
 **Findings**:
