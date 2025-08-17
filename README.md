@@ -79,6 +79,7 @@ Grouped transactions by month to assess seasonal and category-specific trends.
 
 
 
+
 **Conclusion**
 Three core findings:
 
