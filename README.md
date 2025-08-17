@@ -268,9 +268,19 @@ For instance, in **May**, *Male* spending is the highest at 29220.00, while *Fem
 **Conclusion**
 Three core findings:
 
-1. **Gender-Driven Behavior** — clear category preferences by gender
-2. **Age Influence** — younger buyers focus on Beauty/Clothing, older on Electronics
-3. **Seasonality** — predictable peaks in May and Q4, dips in September
+1. **Gender-Driven Behavior** — clear category preferences by gender.
+2. **Age Influence** — younger buyers focus on Beauty/Clothing, older on Electronics.
+3. **Seasonality** — predictable peaks in May and Q4, dips in September.
+
+
+**Technologies Used**
+- Python 3.9
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
 
 
 
