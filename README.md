@@ -56,9 +56,9 @@ Grouped transactions by month to assess seasonal and category-specific trends.
 **Findings**:
 
 1. **Spending Fluctuations**:
-- Peak in May ($53,150) — 42% above average
-- Low in September ($23,620) — seasonal dip
-- Q4 surge (Oct–Dec) above $35K
+- Peak in May (53,150) — 42% above average
+- Low in September (23,620) — seasonal dip
+- Q4 surge (Oct–Dec) above 35K
 
 2. **Category Shifts**:
 - Electronics led in 8 of 12 months
