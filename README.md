@@ -94,8 +94,11 @@ For example: For 18 year olds, Females collectively spent **more** than Males. T
 
 See the Barplot below
 
+# Barplot of Total Spending by Age and Gender
+
 
 ![Barplot of Total Spending by Age and Gender](https://github.com/Ebrahimlab/Retail-Sales-Exploratory-Data-Analysis-in-Python/blob/main/Barplot%20of%20Total%20Spending%20by%20Age%20and%20Gender.png?raw=true)
+
 
 
 # Analysis 2 — Top Product Category by Age & Gender
@@ -256,7 +259,7 @@ For instance, in **May**, *Male* spending is the highest at 29220.00, while *Fem
 
 
 
-**Lineplot of Total Monthly Spending Trend by Gender**:
+# Lineplot of Total Monthly Spending Trend by Gender
 
 ![Lineplot of Total Monthly Spending Trend by Gender](https://github.com/Ebrahimlab/Retail-Sales-Exploratory-Data-Analysis-in-Python/blob/main/Lineplot%20of%20Total%20Monthly%20Spending%20Trend%20by%20Gender.png?raw=true)
 
